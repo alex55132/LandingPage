@@ -78,7 +78,7 @@ var descContainerDisplay = $(".descContainer").css("display");
 
 			//Animacion del primer container
 			var descriptionMargin = document.getElementById('textoPresentacion').style.marginLeft;
-			$('#textoPresentacion').css("margin-left", '-155%');
+			$('#textoPresentacion').css("margin-left", '-185%');
 			$("#MainTitle").animate({
 				opacity: '1'
 			}, 1500, function() {
